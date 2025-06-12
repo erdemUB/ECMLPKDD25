@@ -33,5 +33,5 @@ python3 train_twitter_MPNN.py --model GCN --data_type all  --hidden_dim 128 --lr
 ```
 We provide a bunch of examples for binary classification and multiclass classification tasks across all the density metric: [degree](./run/degree), [core](./run/core) and [truss](./run/truss). The files are called `binary.sh` and `multiclass.sh` respectively.
 
-## References
-Sariyüce, A. E., Seshadhri, C., Pinar, A., & Çatalyürek, Ü. V. (2017). Nucleus decompositions for identifying hierarchy of dense subgraphs. ACM Transactions on the Web (TWEB), 11(3), 1-27.
+## How to cite
+Gopalakrishnan, A. A., Hossain, J., Elmas, T., Sariyuce, A. E. (2025) Density-aware Walks for Coordinated Campaign Detection. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)
